@@ -1,0 +1,6 @@
+sisters = ("sree","ramya","lakshmi")
+brothers = ("mahesh","lakshma")
+siblings = sisters + brothers
+print ("Siblings:"+str(len (siblings)) )
+family_members = siblings + ("Father","Mother")
+print ("Family members:" + str(family_members))
