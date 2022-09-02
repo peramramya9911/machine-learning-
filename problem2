@@ -1,0 +1,15 @@
+dog = dict()
+dog[" name" ]="ABCD"
+dog["color"]="RED"
+dog["breed" ] = "America"
+dog["legs"] = 4
+dog["'breed" ] = "huskey"
+print (dog)
+student = {"first_name": "Ramya","last_name": "Peram","gender": "Female","age": 23, "marital_status": "Single""skills": ["talkative"l,"country": "USA",
+"city":"Missouri","address":"Kansas"}
+print ("Length of student:str(len(student)))
+print ("Type of skills:+ str/type(student ["skills"]) ))
+student ["skills"]. append ("sports")
+student["skills"].append("sleeping")
+print ("Keys:"+str(student. keys () ))
+print ("Values:"+ str(student. values ()) )
