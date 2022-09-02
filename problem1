@@ -6,7 +6,7 @@ print("Min:+ str(min(age)))
 print ("Max:+ str(max(age)))
 if a % 2 != 0:
   mid = int(a / 2- 1)
-  median = (age[mid] + age[mid + 11) / 2
+  median = (age[mid] + age[mid + 1) / 2
   print ("Median is:"+ str(median))
 else:
   median = age[int(a / 2)]
