@@ -1,1 +1,3 @@
-print ("Name\tAge\tCountry\tCity\nAsabeneh\t250\tFinland\tHelsinki")
+radius = 10
+area = 3.14 * radius ** 2
+print ("The area of a circle with radius {radius} is (area} meters square.". format (radius=radius, area=int(area)))
