@@ -1,0 +1,15 @@
+age = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+= len(age)
+sorted (age)
+print("Sorted: " + str(age))
+print("Min:+ str(min(age)))
+print ("Max:+ str(max(age)))
+if a % 2 != 0:
+  mid = int(a / 2- 1)
+  median = (age[mid] + age[mid + 11) / 2
+  print ("Median is:"+ str(median))
+else:
+  median = age[int(a / 2)]
+  print ("Median is: " + str(median))
+  print ("Average: " + str(sum(age) / a))
+  print ("Range: " + str(max(age) - min(age)))
